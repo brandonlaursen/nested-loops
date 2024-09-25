@@ -4,7 +4,9 @@ function should return a 2D array where the subarrays represent unique pairs of
 element from the input array.
 */
 
-// Your code here 
+function pairsMaker(arr){
+  
+}
 
 // console.log(pairsMaker(["a", "b", "c", "d"]));
 // //=> [ [ 'a', 'b' ],
