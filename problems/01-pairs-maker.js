@@ -5,7 +5,7 @@ element from the input array.
 */
 
 function pairsMaker(arr){
-  
+  console.log("tom")
 }
 
 // console.log(pairsMaker(["a", "b", "c", "d"]));
